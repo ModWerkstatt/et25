@@ -1,0 +1,22 @@
+{
+    "name": "DB ET 25 | Class 425",
+    "summary": "The ET 25 series electric railcars were designed as high-speed railcars for commuter service.",
+    "description": "As a newly developed electric multiple unit for city express traffic, the ET 25 was put into service with the Deutsche Reichsbahn. Initially, the multiple units consisted of two power cars. From 1940 control cars were also manufactured, which could be attached to increase the space available. The maximum traction was with three coupled railcars, each with two control cars. At the Bundesbahn, the vehicles were refurbished and put into service and some were also equipped with intermediate cars. In 1963 all units were converted into three-part units with a new front, with many of the remaining control cars being converted into intermediate cars. So they remained in use in the Stuttgart area until 1985. A museum train is still on its way today.",
+    "localization" : {
+        "de": {
+            "name": "ET 25 | BR 425",
+            "summary": "Die Elektrotriebwagen der Baureihe ET 25 waren als Schnelltriebwagen im Nahverkehr konzipiert.",
+            "description": "Als neuentwickelter Elektrotriebwagen für den Städteschnellverkehr wurde bei der Deutschen Reichsbahn der ET 25 in Dienst gestellt. Anfangs bestanden die Triebzüge aus zwei Triebköpfen. Ab 1940 wurden auch Steuerwagen gefertigt, die zur Steigerung des Platzangebotes angehängt werden konnten. Die maximale Traktion lag bei drei gekuppelten Triebwagen mit jeweils zwei Steuerwagen. Bei der Bundesbahn wurden die Fahrzeuge wieder hergerichtet und in Dienst gestellt und teilweise auch mit Mittelwagen versehen. 1963 wurden alle Einheiten umgebaut mit einer neuen Front zu dreiteiligen Einheiten wobei viele verbliebenen Steuerwagen zu Mittelwagen umgebaut wurden. So verblieben sie im Stuttgarter Raum bis 1985 im Einsatz. Heute ist noch ein Museumszug unterwegs."
+        }
+    },
+    "authors": [
+        {
+            "name": "ModWerkstatt",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Multiple Unit"
+    ],
+    "url": "https://modwerkstatt.com/downloads/tpf3/et-25"
+}
