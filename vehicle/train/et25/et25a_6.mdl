@@ -1208,7 +1208,7 @@ return {
 				price = -1,
 			},
 			description = { 
-				name = _("ET25a_name"),
+				name = _("et25a_name"),
 			},
 			emissions = { 
 				noise = { 

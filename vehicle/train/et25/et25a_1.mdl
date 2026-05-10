@@ -974,7 +974,7 @@ return {
 				price = -1,
 			},
 			description = { 
-				name = _("elT25a_name"),
+				name = _("elt25a_name"),
 			},
 			emissions = { 
 				noise = { 

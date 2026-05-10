@@ -882,7 +882,7 @@ return {
 				price = -1,
 			},
 			description = { 
-				description = _("ES25_desc"),
+				description = _("es25_desc"),
 				name = _("elS25_name"),
 			},
 			emissions = { 
@@ -1458,7 +1458,7 @@ return {
 				},
 				departureDelay = 2083,
 				engineTags = { },
-				groupFileName = "/vehicle/train/ET25/menu_ET25.mdl",
+				groupFileName = "/vehicle/train/et25/menu_et25.mdl",
 				loadSpeed = 2,
 				reversible = true,
 				tags = { "TRAIN", "ELECTRIC_TRAIN", },

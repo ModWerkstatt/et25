@@ -1054,7 +1054,7 @@ return {
 				price = -1,
 			},
 			description = { 
-				name = _("EM25_name"),
+				name = _("em25_name"),
 			},
 			emissions = { 
 				noise = { 

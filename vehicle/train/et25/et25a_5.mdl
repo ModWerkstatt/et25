@@ -1202,7 +1202,7 @@ return {
 				price = -1,
 			},
 			description = { 
-				name = _("BR425a_name"),
+				name = _("br425a_name"),
 			},
 			emissions = { 
 				noise = { 
