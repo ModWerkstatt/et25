@@ -5,12 +5,12 @@
 
       "et25_1_name": "DRG elT 1820 2-part",
 		"et25_1_desc": "Built as two-part units for city express traffic, the ET 25 was put into service with the Deutsche Reichsbahn. From 1940 control cars were added to increase the space available; up to two control cars could be coupled to a multiple unit.",
-      "et25_2_name": "DB ET 25 2-part",
+      "et25_2_name": "DB ET 25 2-part (2nd/3rd class)",
 		"et25_2_desc": "The Deutsche Bundesbahn took over the still quite new railcars and made them roadworthy again. They were mainly used in suburban traffic in Stuttgart.",
-		"et25_3_name": "DB ET 25 2-part",
+		"et25_3_name": "DB ET 25 2-part (1st/2nd class)",
 		"et25_3_desc": "The Deutsche Bundesbahn took over the still quite new railcars and made them roadworthy again. They were mainly used in suburban traffic in Stuttgart. Since the discontinuation of the 3rd car class in 1956, the vehicles have been in 1st and 2nd class.",
       "et25_4_name": "DB ET 25 3-part",
-		"et25_4_desc": "From 1963, all vehicles were overhauled and the front was redesigned with the so-called Cannstadter head. This gave numerous old series of locomotives a relatively uniform appearance.",
+		"et25_4_desc": "From 1963, all vehicles were overhauled and the front was redesigned with the so-called Cannstatter head. This gave numerous old series of locomotives a relatively uniform appearance.",
       "et25_5_name": "DB Class 425 3-part",
 		"et25_5_desc": "With the introduction of the computer numbers, the ET 25 became the 425 series from 1968. This was in use with the DB until 1985. From 1999, the series designation was reassigned to new vehicles.",
       "et25_6_name": "Museum vehicle ET 25 3-part",
@@ -25,7 +25,8 @@
       "br825_name": "Class 825",
 
       "elS25_name": "Control car elS 2409",
-      "es25_name": "Control car ES 25",
+      "es25_2_name": "Control car ES 25 (3rd class)",
+      "es25_3_name": "Control car ES 25 (2nd class)",
       "es25_desc": "There were also control cars in addition to the two-part railcars, and a maximum of two control cars could be attached to each railcar. However, the maximum speed with the control car was limited to 90 km/h. But there was an increased passenger capacity on busy routes. The ET 25 did not prove its worth on steep stretches with a control car coupled because they quickly overheated. - The control car(s) always comes to the rear of the train in the depot!"
 
 	},
@@ -35,12 +36,12 @@
 
       "et25_1_name": "DRG elT 1820 2-tlg",
 		"et25_1_desc": "Gebaut als zweiteilige Einheiten für den Städteschnellverkehr wurden die ET 25 in Dienst gestellt bei der Deutschen Reichsbahn. Ab 1940 kamen noch Steuerwagen hinzu um das Platzangebot zu vergrößern; es konnten jeweils bis zu zwei Steuerwagen an einen Triebzug gekuppelt werden.",
-      "et25_2_name": "DB ET 25 2-tlg",
+      "et25_2_name": "DB ET 25 2-tlg (2./3. Klasse)",
 		"et25_2_desc": "Die Deutsche Bundesbahn übernahm die noch recht neuen Triebwagen und richtete sie wieder fahrtüchtig her. Sie wurden vor allem im Stuttgarter Vorortverkehr eingesetzt.",
-		"et25_3_name": "DB ET 25 2-tlg",
+		"et25_3_name": "DB ET 25 2-tlg (1./2. Klasse)",
 		"et25_3_desc": "Die Deutsche Bundesbahn übernahm die noch recht neuen Triebwagen und richtete sie wieder fahrtüchtig her. Sie wurden vor allem im Stuttgarter Vorortverkehr eingesetzt. Seit Wegfall der 3. Wagenklasse im Jahr 1956 wurden die Fahrzeuge mit 1. und 2. Klasse geführt.",
       "et25_4_name": "DB ET 25 3-tlg",
-		"et25_4_desc": "Ab 1963 wurden alle Fahrzeuge überholt und die Front neu gestaltet mit dem dem sogenannten Cannstadter Kopf. Dieser gab zahlreichen Altbau-Triebfahrzeugreihen ein relativ einheitlich Aussehen.",
+		"et25_4_desc": "Ab 1963 wurden alle Fahrzeuge überholt und die Front neu gestaltet mit dem dem sogenannten Cannstatter Kopf. Dieser gab zahlreichen Altbau-Triebfahrzeugreihen ein relativ einheitlich Aussehen.",
       "et25_5_name": "DB BR 425 3-tlg",
 		"et25_5_desc": "Mit Einführung der Computernummern wurde aus dem ET 25 ab 1968 die Baureihe 425. Diese hielt sich bis 1985 im Einsatz bei der DB. Ab 1999 wurde die Baureihenbezeichnung an Neubaufahrzeuge erneut vergeben.",
       "et25_6_name": "Museumsfahrzeug ET 25 3-tlg",
@@ -57,7 +58,8 @@
       "br825_name": "BR 825",
 
       "elS25_name": "Steuerwagen elS 2409",
-      "es25_name": "Steuerwagen ES 25",
+      "es25_2_name": "Steuerwagen ES 25 (3. Klasse)",
+      "es25_3_name": "Steuerwagen ES 25 (2. Klasse)",
       "es25_desc": "Es gab zusätzliche Steuerwagen zu den zweiteiligen Triebwagen, dabei konnte an jeden Triebwagen maximal zwei Steuerwagen gehängt werden. Allerdings war die Höchstgeschwindigkeit mit Steuerwagen auf 90 km/h limitiert. Dafür gab es auf viel befahrenen Strecken eine erhöhte Fahrgastkapazität. Auf steilen Strecken mit angehängtem Steuerwagen bewährten sich die ET 25 nicht, weil sie schnell überhitzten. - Steuerwagen kommt immer hinten an den Zug im Depot!"
 
 	}
