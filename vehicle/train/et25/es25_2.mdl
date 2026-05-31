@@ -1515,7 +1515,7 @@ return {
 				departureDelay = 2083,
 				engineTags = { },
 				groupFileName = "menu_et25.mdl",
-				loadSpeed = 2,
+				loadSpeed = 3,
 				reversible = true,
 				tags = { "TRAIN", "ELECTRIC_TRAIN", },
 			},
