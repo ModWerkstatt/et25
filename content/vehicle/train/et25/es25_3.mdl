@@ -1530,7 +1530,7 @@ return {
 					},
 				},
 				departureDelay = 2083,
-				engineTransportModes = { "TRAIN", "ELECTRIC_TRAIN", },
+				engineTransportModes = { },
 				groupFileName = "menu_et25.mdl",
 				loadSpeed = 3,
 				reversible = true,
